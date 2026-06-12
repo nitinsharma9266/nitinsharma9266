@@ -7,6 +7,7 @@
 </p>
 
 ---
+https://github-readme-stats.vercel.app/api/top-langs/?username=nitinsharma9266&layout=compact&theme=tokyonight
 
 ## 👨‍💻 About Me
 

@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Nitin Sharma</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=2000&color=00FFFF&center=true&vCenter=true&width=750&height=80&lines=💻+Hi+I'm+Nitin+Sharma" />
+</p>
 
 <h3 align="center">🚀 B.Tech Student | Java Developer in Progress | DSA Learner</h3>
 

@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Nitin Sharma</h1>
 
-<!--
-**nitinsharma9266/nitinsharma9266** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">🚀 B.Tech Student | Java Developer in Progress | DSA Learner</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=Learning+Java;Building+Apps;Solving+DSA+Problems;Future+Software+Engineer" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- ☕ Currently Learning Java
+- 🧠 Interested in App Development
+- 💻 Solving DSA Problems
+- 🚀 Building Projects and Uploading Daily
+
+---
+
+## 🛠️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=java,python,git,github,vscode" />
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=nitinsharma9266&show_icons=true)
+
+![Streak](https://streak-stats.demolab.com?user=nitinsharma9266)
+
+---
+
+## 🏆 Daily Progress
+
+✅ Java Learning Journey  
+✅ DSA Practice  
+✅ Project Development
+
+---
+
+### 🔥 Keep Learning, Keep Building  ise kaha dalu

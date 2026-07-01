@@ -1,114 +1,312 @@
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=2000&color=00FFFF&center=true&vCenter=true&width=750&height=80&lines=💻+Hi+I'm+Nitin+Sharma" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Nitin%20Sharma&fontAlign=50&fontAlignY=38&fontSize=55&fontColor=00F5FF&desc=Java%20Developer%20|%20DSA%20Learner%20|%20Future%20Android%20Developer&descAlign=50&descAlignY=60&animation=fadeIn"/>
 </p>
 
-<h3 align="center">🚀 B.Tech CSE Student | Java Developer in Progress | DSA Learner</h3>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=💻+Hi,+I'm+Nitin+Sharma;☕+Java+Developer+in+Progress;🧠+Data+Structures+%26+Algorithms;📱+Future+Android+Developer;🚀+Building+Projects+Every+Day;⭐+Welcome+to+My+GitHub+Profile"/>
+</p>
+
+<h3 align="center">
+🚀 B.Tech CSE Student • Java Developer • DSA Learner • Future Android Engineer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&width=700&lines=Learning+Java;Building+Apps;Solving+DSA+Problems;Future+Software+Engineer;Uploading+Projects+Daily" />
+<img src="https://komarev.com/ghpvc/?username=nitinsharma9266&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet"/>
+<img src="https://img.shields.io/github/followers/nitinsharma9266?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/stars/nitinsharma9266?style=for-the-badge&logo=github"/>
+</p>
+
+<p align="center">
+
+<a href="https://github.com/nitinsharma9266">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<!-- Future -->
+<!--
+<a href="https://linkedin.com/in/YOUR_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+-->
+
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nitinsharma9266&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech CSE Student
-- ☕ Currently Learning Java
-- 📱 Interested in App Development
-- 🧠 Solving DSA Problems Daily
-- 🚀 Building Projects and Uploading on GitHub
-- 🎯 Goal: Become a Software Engineer
+<img align="right" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
----
+- 🎓 **B.Tech CSE Student**
+- ☕ Currently mastering **Java**
+- 🧠 Solving **DSA Problems Daily**
+- 📱 Learning **Android Development**
+- 🚀 Building Real Projects
+- 📚 Uploading Code Regularly on GitHub
+- 🌱 Always Learning New Technologies
+- 🎯 Goal: Become a Professional Software Engineer
 
-## 🛠️ Tech Stack
+<br><br><br>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,git,github,vscode" />
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+## 👨‍💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,kotlin,python,c,html,css,javascript" />
 </p>
 
 ---
 
-## 📊 Most Used Languages
+## 📱 Mobile Development
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinsharma9266&layout=compact&langs_count=10&theme=tokyonight" />
+<p>
+<img src="https://skillicons.dev/icons?i=androidstudio,firebase" />
 </p>
 
-> ⚡ Languages are automatically updated based on the code uploaded in repositories.
+> 🚧 Currently learning Android Development. More technologies will be added as I progress.
 
 ---
 
-## 📈 GitHub Stats
+## 🗄️ Databases
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nitinsharma9266&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nitinsharma9266&theme=tokyonight" />
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 </p>
 
 ---
 
-## 🏆 Daily Progress
+## ⚙️ Tools & IDEs
 
-✅ Java Learning Journey
-
-✅ DSA Practice
-
-✅ Problem Solving
-
-✅ Project Development
-
-✅ GitHub Contributions
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
+</p>
 
 ---
 
-## 🎯 Current Focus
+## 💻 Operating Systems
+
+<p>
+<img src="https://skillicons.dev/icons?i=windows,linux" />
+</p>
+
+---
+
+## 📚 Currently Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,firebase" />
+</p>
+
+</div>
+
+---
+
+# 📌 Learning Progress
 
 ```text
-📚 Java Development      ████████░░ 80%
-🧠 DSA Practice          ███████░░░ 70%
-📱 App Development       █████░░░░░ 50%
-🚀 Projects              ██████░░░░ 60%
+☕ Java                 █████████░ 90%
+
+🧠 Data Structures      ███████░░░ 70%
+
+⚡ Algorithms           ██████░░░░ 60%
+
+📱 Android              ███░░░░░░░ 30%
+
+🔥 Kotlin               ██░░░░░░░░ 20%
+
+☁ Firebase             ░░░░░░░░░░ 0%
 ```
 
 ---
 
-## 🌱 Learning Roadmap
+# 🎯 2026 Goals
 
-- Java Basics
-- Object Oriented Programming
-- Advanced Java
-- Data Structures & Algorithms
-- Android Development
-- System Design
-
----
-
-## 📌 Featured Repositories
-
-⭐ Java Programs
-
-⭐ DSA Practice
-
-⭐ Python Projects
-
-⭐ Future Android Projects
+- ✅ Java
+- ✅ Object Oriented Programming
+- 🔄 Data Structures & Algorithms
+- 🔄 Android Development and iOS 
+- ⏳ Firebase
+- ⏳ Jetpack Compose
+- ⏳ MVVM Architecture
+- ⏳ REST API Integration
+- ⏳ Publish Apps on Google Play Store
 
 ---
 
-### 🔥 Keep Learning • Keep Building • Keep Growing
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Code.+Learn.+Build.;Never+Stop+Improving.;Future+Software+Engineer." />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nitinsharma9266&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=nitinsharma9266&theme=tokyonight&hide_border=true&border_radius=12"/>
 </p>
+
+<p align="center">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinsharma9266&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
+</p>
+
+> 💡 **Note:** The "Most Used Languages" card is generated automatically from your public repositories and updates as you add more code.
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nitinsharma9266&theme=tokyo-night&hide_border=true&radius=12"/>
+</p>
+
+---
+
+# 📌 GitHub Highlights
+
+<div align="center">
+
+| 🚀 Metric | 📌 Status |
+|-----------|-----------|
+| 💻 Daily Coding | ✅ Active |
+| ☕ Java Journey | 🚀 In Progress |
+| 🧠 DSA Practice | 📚 Everyday |
+| 📱 Android Development | 🌱 Learning |
+| ⭐ Open Source | 🎯 Future Goal |
+| 📂 Public Repositories | 📈 Growing |
+
+</div>
+
+---
+
+# 📅 Coding Philosophy
+
+```text
+Write Code.
+Learn Every Day.
+Build Real Projects.
+Share Knowledge.
+Stay Consistent.
+Never Give Up.
+```
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=nitinsharma9266&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/nitinsharma9266/nitinsharma9266/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+</p>
+
+> ⚠️ If the snake is not visible yet, don't worry. It will start working after enabling the GitHub Actions workflow in your profile repository.
+
+---
+
+# ⚡ Developer Mindset
+
+<div align="center">
+
+| 💡 Principle | 🚀 Meaning |
+|--------------|-----------|
+| 📚 Learn | Never stop learning. |
+| 💻 Build | Turn ideas into real projects. |
+| 🧠 Practice | Solve DSA problems consistently. |
+| 🔥 Improve | Become better than yesterday. |
+| 🌍 Share | Upload projects and help others. |
+
+</div>
+
+---
+
+# 🌟 Fun Facts
+
+- ☕ Coffee + Code = Productivity
+- 🌙 Night Coding Enthusiast
+- 📱 Passionate about Android Development
+- 🧠 Love solving programming challenges
+- 🚀 Building one step at a time
+- 📚 Learning in Public through GitHub
+
+---
+
+# 🎯 Mission
+
+```text
+✔ Master Java
+✔ Become Strong in DSA
+✔ Build Professional Android Apps
+✔ Learn Firebase
+✔ Learn Jetpack Compose
+✔ Publish Apps on Play Store
+✔ Contribute to Open Source
+✔ Crack Product-Based Company Interviews
+```
+
+---
+
+# 💬 Favorite Quote
+
+> **"Consistency beats intensity. Small improvements every day create extraordinary results."**
+
+---
+
+<!-- ========================================================= -->
+<!--              LEARNING JOURNEY & ROADMAP                   -->
+<!-- ========================================================= -->
+
+# 🚀 Developer Journey
+
+```text
+          🎓 B.Tech CSE
+                │
+                ▼
+        ☕ Java Programming
+                │
+                ▼
+      🧩 Object-Oriented Programming
+                │
+                ▼
+      🧠 Data Structures & Algorithms
+                │
+                ▼
+         🔥 Advanced Java
+                │
+                ▼
+          💙 Kotlin
+                │
+                ▼
+      📱 Android Development
+                │
+                ▼
+        🔥 Firebase Integration
+                │
+                ▼
+      🏗️ MVVM Architecture
+                │
+                ▼
+      🎨 Jetpack Compose
+                │
+                ▼
+      🚀 Publish Apps on Play Store
+                │
+                ▼
+      💼 Software Engineer
+```
+
+---
+# 💡 Motto
+
+> **"Learn deeply. Build consistently. Share openly. Improve every day."**
+
+---

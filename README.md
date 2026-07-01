@@ -142,6 +142,30 @@
 
 ---
 
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nitinsharma9266&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=nitinsharma9266&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinsharma9266&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nitinsharma9266&theme=tokyo-night&hide_border=true"/>
+
+</p>
+---
+
 # 📊 GitHub Analytics
 
 <p align="center">
@@ -162,6 +186,36 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nitinsharma9266&theme=tokyo-night&hide_border=true&radius=12"/>
 </p>
+
+---
+
+# 💭 Developer Mindset
+
+```java
+public class CurrentLife {
+
+    public static void main(String[] args) {
+
+        boolean dreamAchieved = false;
+
+        while (!dreamAchieved) {
+
+            learn();
+            code();
+            debug();
+            buildProjects();
+            solveDSA();
+            improve();
+            repeat();
+
+        }
+
+    }
+
+}
+```
+
+> *"Every achievement begins with someone's encouragement."*
 
 ---
 
@@ -213,7 +267,7 @@ Never Give Up.
 
 ---
 
-# ⚡ Developer Mindset
+# ⚡ Developer Mind
 
 <div align="center">
 

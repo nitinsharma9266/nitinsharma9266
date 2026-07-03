@@ -141,10 +141,13 @@
 - ⏳ MVVM Architecture
 - ⏳ REST API Integration
 - ⏳ Publish Apps on Google Play Store
-
 ---
-<img src="https://github-readme-stats.vercel.app/api?username=nitinsharma9266&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+## Github stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nitinsharma9266&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+</p>
+---
 # 📊 GitHub Analytics
 
 <p align="center">

@@ -37,6 +37,10 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinsharma9266&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+</p>
+---
 
 ## 👨‍💻 About Me
 
@@ -139,6 +143,11 @@
 - ⏳ MVVM Architecture
 - ⏳ REST API Integration
 - ⏳ Publish Apps on Google Play Store
+
+---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nitinsharma9266&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
+</p>
 
 ---
 

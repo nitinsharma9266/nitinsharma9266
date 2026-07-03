@@ -143,10 +143,7 @@
 - ⏳ Publish Apps on Google Play Store
 
 ---
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nitinsharma9266&show_icons=true&theme=tokyonight" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=nitinsharma9266&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 
 # 📊 GitHub Analytics
 

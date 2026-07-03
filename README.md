@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/nitinsharma9266/code-ansh7/main/banner.png.jpeg" width="100%"/>
+<img src="https://raw.githubusercontent.com/nitinsharma9266/nitinsharma9266/main/banner.png.jpeg" width="100%"/>
 
 <br>
 

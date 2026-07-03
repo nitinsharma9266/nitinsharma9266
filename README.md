@@ -120,7 +120,7 @@ while(!success){
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=code-ansh7&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nitinsharma9266&theme=tokyo-night"/>
 
 </p>
 

@@ -37,7 +37,10 @@
 </p>
 
 ---
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+</p>
+---
 ## 👨‍💻 About Me
 
 <img align="right" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
@@ -141,7 +144,9 @@
 - ⏳ Publish Apps on Google Play Store
 
 ---
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
+</p>
 
 
 ---

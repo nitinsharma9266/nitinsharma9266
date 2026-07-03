@@ -37,8 +37,10 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinsharma9266&layout=compact&theme=tokyonight&cache_seconds=86400" />
+</p>
 
----
 
 ## 👨‍💻 About Me
 
@@ -147,7 +149,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nitinsharma9266&show_icons=true&theme=tokyonight&cache_seconds=86400" />
 </p>
----
+
 # 📊 GitHub Analytics
 
 <p align="center">

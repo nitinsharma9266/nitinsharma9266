@@ -287,47 +287,6 @@ Never Give Up.
 
 ---
 
-<!-- ========================================================= -->
-<!--              LEARNING JOURNEY & ROADMAP                   -->
-<!-- ========================================================= -->
-
-# 🚀 Developer Journey
-
-```text
-          🎓 B.Tech CSE
-                │
-                ▼
-        ☕ Java Programming
-                │
-                ▼
-      🧩 Object-Oriented Programming
-                │
-                ▼
-      🧠 Data Structures & Algorithms
-                │
-                ▼
-         🔥 Advanced Java
-                │
-                ▼
-      📱 Android Development
-                │
-                ▼
-        🔥 Firebase Integration
-                │
-                ▼
-      🏗️ MVVM Architecture
-                │
-                ▼
-      🎨 Jetpack Compose
-                │
-                ▼
-      🚀 Publish Apps on Play Store
-                │
-                ▼
-      💼 Software Engineer
-```
-
----
 # 💡 Motto
 
 > **"Learn deeply. Build consistently. Share openly. Improve every day."**

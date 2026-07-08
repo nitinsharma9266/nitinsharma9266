@@ -146,17 +146,17 @@ text
 ## 📈 GitHub Stats
 
 <img src="https://github-readme-stats-one-bice.vercel.app/api?username=nitinsharma9266&show_icons=true&theme=tokyonight" />
----
+___
 
 # 📊 GitHub Analytics
 
 <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=nitinsharma9266&layout=compact&theme=tokyonight" />
----
+___
 # 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nitinsharma9266&theme=tokyonight&hide_border=true&v=1" alt="GitHub Streak" />
-</p>
+https://streak-stats.demolab.com/?user=nitinsharma9266&theme=tokyonight&hide_border=true
+
+___
 
 > 💡 **Note:** The "Most Used Languages" card is generated automatically from your public repositories and updates as you add more code.
 

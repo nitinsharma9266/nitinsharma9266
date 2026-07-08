@@ -151,8 +151,9 @@ ___
 # 📊 GitHub Analytics
 
 <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=nitinsharma9266&layout=compact&theme=tokyonight" />
-___
-# 🔥 GitHub Streak
+---
+
+## 🔥 GitHub Streak
 
 https://streak-stats.demolab.com/?user=nitinsharma9266&theme=tokyonight&hide_border=true
 

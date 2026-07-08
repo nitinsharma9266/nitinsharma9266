@@ -155,7 +155,7 @@ text
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nitinsharma9266&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=nitinsharma9266&theme=tokyonight&hide_border=true&v=1" alt="GitHub Streak" />
 </p>
 
 > 💡 **Note:** The "Most Used Languages" card is generated automatically from your public repositories and updates as you add more code.

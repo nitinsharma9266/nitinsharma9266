@@ -231,14 +231,6 @@ Never Give Up.
 
 ---
 
-# 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=nitinsharma9266&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4"/>
-</p>
-
----
-
 # ⚡ Developer Mind
 
 <div align="center">

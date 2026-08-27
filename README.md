@@ -1,6 +1,7 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Nitin%20Sharma&fontAlign=50&fontAlignY=38&fontSize=55&fontColor=00F5FF&desc=Java%20Developer%20|%20DSA%20Learner%20|%20Future%20Android%20Developer&descAlign=50&descAlignY=60&animation=fadeIn"/>
+
 </p>
 
 <p align="center">

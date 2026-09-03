@@ -173,13 +173,6 @@ ___
 
 ---
 
-# 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nitinsharma9266&theme=tokyo-night&hide_border=true&radius=12"/>
-</p>
-
----
 
 # 💭 Developer Mindset
 

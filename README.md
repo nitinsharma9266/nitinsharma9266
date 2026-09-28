@@ -234,7 +234,7 @@ Never Give Up.
 
 ---
 
-# ⚡ Developer Mind
+# ⚡ Developer Mind Set 
 
 <div align="center">
 

@@ -147,7 +147,6 @@ text
 - 🔄 Data Structures & Algorithms
 - 🔄 Android Development and iOS 
 - ⏳ Firebase
-- ⏳ Jetpack Compose
 - ⏳ MVVM Architecture
 - ⏳ REST API Integration
 - ⏳ Publish Apps on Google Play Store

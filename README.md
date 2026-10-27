@@ -96,7 +96,7 @@
 
 ---
 
-## ⚙️ Tools & IDEs
+## ⚙️ Tool & IDEs
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
